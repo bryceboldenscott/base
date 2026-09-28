@@ -1,0 +1,22 @@
+PASS: EXECUTION_STATE.md is a regular file
+PASS: EXECUTION_STATE.md is readable
+FAIL: handoffs/ is a directory
+PASS: Version: line present
+PASS: Last Updated: line present
+PASS: heading present: ## Objective
+PASS: heading present: ## Scope
+PASS: heading present: ## Authority
+PASS: heading present: ## Definition of Done
+PASS: heading present: ## Source Register
+PASS: heading present: ## Unknowns / Questions
+PASS: heading present: ## Phase / Status
+PASS: heading present: ## Completed & Active Work
+PASS: heading present: ## Decision Log
+PASS: heading present: ## Risk Register
+PASS: heading present: ## Issue Log
+PASS: heading present: ## Action Register
+PASS: heading present: ## Change Log
+PASS: heading present: ## Parking Lot / Future Opportunities
+PASS: heading present: ## Deliverables
+FAIL: heading present: ## Audit Notes
+19/21 checks passed.
